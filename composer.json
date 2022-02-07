@@ -1,0 +1,12 @@
+{
+    "name": "yousra/woocommerce-ph-papp",
+    "authors": [
+        {
+            "name": "yousra srk",
+            "email": "info@example.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
